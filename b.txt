@@ -1,5 +1,6 @@
 public class Dame{
 	public static void main(String[] args){
 		system.out.println("hai github");
+		system.out.println("update master 01");
 	}
 }
