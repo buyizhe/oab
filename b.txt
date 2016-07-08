@@ -4,5 +4,6 @@ public class Dame{
 		system.out.println("update master 01");
 		system.out.println("update text 01");
 		system.out.println("update master 02");
+		system.out.println("update text 02");
 	}
 }
